@@ -1,8 +1,8 @@
-## about me
-belong to
-- tokyo university of agriculture and technology
+## About me
+Belong to
+- Tokyo University of Agriculture and Technology
 - New Innovations
-interest
+Interest
 - Robotics
 - Algorithmic Trading
 
