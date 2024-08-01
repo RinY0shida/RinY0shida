@@ -2,7 +2,9 @@
 Belong to
 - Tokyo University of Agriculture and Technology
 - New Innovations
+
 Interest
+
 - Robotics
 - Algorithmic Trading
 
