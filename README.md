@@ -1,4 +1,11 @@
-## Hi there 👋
+## about me
+belong to
+- tokyo university of agriculture and technology
+- New Innovations
+interest
+- Robotics
+- Algorithmic Trading
+
 
 <!--
 **RinY0shida/RinY0shida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
